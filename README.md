@@ -1,4 +1,4 @@
-# ShiShi — micro-lending platform (v2)
+# ShiShi — micro-lending platform (v1)
 
 Flask application for a Nigerian micro-lender: public site with a live repayment
 calculator, customer app (KYC, applications, repayments, wallet, statements,
